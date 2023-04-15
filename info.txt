@@ -2,3 +2,6 @@ Gayithri
 Gowribidanur
 chikkaballapur
 Zip:555545
+DEVOPS
+AWS
+LINUX
